@@ -1,4 +1,4 @@
-##Learning Typescript, React & Tailwind CSS
+## Learning Typescript, React & Tailwind CSS
 ### 📊 Weekly Coding Stats
 <!--START_SECTION:waka-->
 
