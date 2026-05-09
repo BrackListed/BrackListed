@@ -14,7 +14,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 📊 Weekly Coding Stats
+### 📊 Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
