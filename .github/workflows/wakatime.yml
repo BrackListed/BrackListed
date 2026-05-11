@@ -16,3 +16,4 @@ jobs:
           LANG_COUNT: 5
           BLOCKS: ⬜🟩
           SHOW_TIME: true
+          SHOW_DAYS_RANGE: false
