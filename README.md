@@ -1,7 +1,5 @@
-## Learning Typescript, React & Tailwind CSS
+## 💫Learning React & Tailwind CSS
 
-# 💫 About Me:
-🌱Learning Typescript, React & Tailwind CSS
 
 
 # 💻 Tech Stack:
