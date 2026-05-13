@@ -16,6 +16,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 07 January 2026 - To: 12 May 2026
+
 Total Time: 21 hrs 11 mins
 
 TypeScript   20 hrs 56 mins        🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   98.83 %
