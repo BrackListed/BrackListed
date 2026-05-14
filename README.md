@@ -1,4 +1,4 @@
-## 💫Building React Projects
+## 💫Converting Blackjack game into react
 
 
 
