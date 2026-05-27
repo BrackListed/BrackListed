@@ -1,4 +1,4 @@
-## 💫Learning PostgreSQL with Drizzle & Node.js with Express
+## 💫Learning raw express, node.js, and postgresql
 
 
 
